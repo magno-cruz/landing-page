@@ -1,0 +1,32 @@
+header {
+  background-color: #1f2937;
+}
+
+.hero-main {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: extra-bold;
+}
+
+.header2 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.info {
+  font-size: 36px;
+  font-weight: extra-bold;
+  color: #1f2937;
+}
+
+button {
+  background-color: #3882f6;
+  color: white;
+  font-weight: bold;
+
+}
